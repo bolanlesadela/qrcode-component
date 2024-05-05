@@ -23,7 +23,7 @@ This project is a frontend exercise aimed at improving skills in HTML and CSS. I
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/bolanlesadela/qrcode-component.git)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://qrcode-component-bolanlesadelas-projects.vercel.app/))
 
 ## My process
 
